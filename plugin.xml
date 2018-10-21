@@ -23,7 +23,7 @@
     </js-module>
 
     <dependency id="cordova-plugin-extension" />
-    <dependency id="cordova-admobsdk" version="~7.35.0"/>
+    
 
     <!-- android, now build with gradle instead of ant -->
     <platform name="android">
